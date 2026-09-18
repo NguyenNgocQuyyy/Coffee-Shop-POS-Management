@@ -100,8 +100,8 @@ Hệ thống có các tài khoản mẫu phục vụ mục đích chạy thử:
 
 | Tài khoản | Mật khẩu | Vai trò |
 |---|---|---|
-| Manager | 123456 | Manager |
-| Cash1 | 123456 | Cashier |
+| Manager | 388664 | Manager |
+| Cash1 | 123456789 | Cashier |
 | Cash2 | 123456 | Cashier |
 
 > Các tài khoản và mật khẩu trên chỉ là dữ liệu mẫu phục vụ mục đích học tập và demo.
